@@ -18,11 +18,13 @@ Here the contents of the text data, where we need to perform the search is stori
 
 ## For indexing purpose
    [FAISS-CPU](https://github.com/kyamagu/faiss-wheels)
+
    ![Alt text](/Images/faiss.png?raw=true "FAISS-CPU")
 
    [NMSLIB](https://github.com/nmslib/nmslib)
+
    ![Alt text](/Images/nmslib.png?raw=true "NMSLIB")
 
    [ANNOY](https://github.com/spotify/annoy)
+
    ![Alt text](/Images/annoy.png?raw=true "ANNOY")
-# Index-based-semantic-similarity-unstructured-data-search
