@@ -8,7 +8,7 @@ A lot of data that can be used to inform business decisions can be found in unst
 
 # Index based semantic search approach
 There are several methods for search unstructured data semantically- That is by taking the actual context/meaning of the sentences.One best approach is index based approach.
-Here the contents of the text data, where we need to perform the search is storing in in an index in the form of vectors. In the searching phase,the vector format of the user query is matching with the vector contents inside the index and retrive the most matching results back to the user.
+Here the contents of the text data, where we need to perform the search is storing in an index in the form of vectors. In the searching phase,the vector format of the user query is matching with the vector contents inside the index and retrive the most matching results back to the user.
 
 # Tools used here
 
